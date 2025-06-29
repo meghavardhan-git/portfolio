@@ -10,9 +10,6 @@ I’m a BTech Computer Science student at VIT Chennai, passionate about backend 
 
 - **Backend:** Python, Django, Flask  
 - **Frontend:** HTML, CSS (Bootstrap)  
-- **Cloud:** AWS (S3, Lambda, DynamoDB), Azure  
-- **Version Control:** Git, GitHub  
-- **Other:** Data Structures, Algorithms, OOP
 
 ## 📂 Project Structure
 
@@ -30,7 +27,7 @@ portfol/
 ├── README.md
 
 
-
+```
 ## ✅ How to Run
 
 1. Clone the repository:
