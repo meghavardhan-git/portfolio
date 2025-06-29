@@ -13,19 +13,8 @@ I’m a BTech Computer Science student at VIT Chennai, passionate about backend 
 - **Cloud:** AWS (S3, Lambda, DynamoDB), Azure  
 - **Version Control:** Git, GitHub  
 - **Other:** Data Structures, Algorithms, OOP
-## 📂 Project Structure
 
-portfol/
-├── base/                   # App containing views, templates, models
-│   ├── templates/
-│   ├── views.py
-│   ├── urls.py
-├── portfol/                # Main Django project
-│   ├── settings.py
-│   ├── urls.py
-├── static/                 # CSS and images
-├── manage.py
-├── README.md
+<pre><code>## 📂 Project Structure ```text portfol/ ├── base/ # App containing views, templates, models │ ├── templates/ │ ├── views.py │ ├── urls.py ├── portfol/ # Main Django project │ ├── settings.py │ ├── urls.py ├── static/ # CSS and images ├── manage.py ├── README.md ``` </code></pre>
 
 
 ## ✅ How to Run
