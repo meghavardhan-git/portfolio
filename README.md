@@ -14,7 +14,21 @@ I’m a BTech Computer Science student at VIT Chennai, passionate about backend 
 - **Version Control:** Git, GitHub  
 - **Other:** Data Structures, Algorithms, OOP
 
-<pre><code>## 📂 Project Structure ```text portfol/ ├── base/ # App containing views, templates, models │ ├── templates/ │ ├── views.py │ ├── urls.py ├── portfol/ # Main Django project │ ├── settings.py │ ├── urls.py ├── static/ # CSS and images ├── manage.py ├── README.md ``` </code></pre>
+## 📂 Project Structure
+
+```text
+portfol/
+├── base/                   # App containing views, templates, models
+│   ├── templates/
+│   ├── views.py
+│   ├── urls.py
+├── portfol/                # Main Django project
+│   ├── settings.py
+│   ├── urls.py
+├── static/                 # CSS and images
+├── manage.py
+├── README.md
+
 
 
 ## ✅ How to Run
