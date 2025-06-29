@@ -49,9 +49,6 @@ portfol/
 ## 📫 Contact Me
 
 - 📧 Email: meghavardhan2212@gmail.com  
-- 📱 Phone: +91-8886576775  
-- 💻 GitHub: [meghavardhan-git](https://github.com/meghavardhan-git)  
-- 🧮 LeetCode: [meghavardhan_22](https://leetcode.com/meghavardhan_22)
 
 ## ✅ How to Run
 
